@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "681142759551",
+    "project_id": "foodonwheel-a6a34",
+    "storage_bucket": "foodonwheel-a6a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681142759551:android:55b32c62607ca36ec3cf4a",
+        "android_client_info": {
+          "package_name": "com.pointer.foodonwheel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681142759551-akcilc40s90difqtnghs5mr8gm129fi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pointer.foodonwheel",
+            "certificate_hash": "e9e54e4cb9304eda976cc51a9cf0e7bccf654048"
+          }
+        },
+        {
+          "client_id": "681142759551-n4pko4bpd7pv1070ovsqsnjo876cnl01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANVV7c_xyIpZ5gFODW3WG5-lXq9dSKQ-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681142759551-n4pko4bpd7pv1070ovsqsnjo876cnl01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
